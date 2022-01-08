@@ -1,6 +1,6 @@
 const data = {
   frontend: 'Oscar',
-  backend: 'ISabel',
+  backend: 'Isabel',
   design: 'Ana',
 }
 
@@ -10,7 +10,7 @@ console.log(entries.length);
 
 const data = {
   frontend: 'Oscar',
-  backend: 'ISabel',
+  backend: 'Isabel',
   design: 'Ana',
 }
 
